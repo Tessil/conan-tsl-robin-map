@@ -3,7 +3,7 @@ import os
 
 class TslRobinMapConan(ConanFile):
     name = "tsl-robin-map"
-    version = "0.6.2"
+    version = "0.6.3"
     license = "MIT"
     description = "C++ implementation of a fast hash map and hash set using robin hood hashing."
     homepage = "https://github.com/Tessil/robin-map"
